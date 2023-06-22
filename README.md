@@ -39,7 +39,7 @@
 
 ---
 # 3. 대시보드 제작
-- 대시보드 : https://public.tableau.com/app/profile/yeeoonoo/viz/Retail_16868993295590/1
+- 대시보드 : https://public.tableau.com/app/profile/yeeoonoo/viz/RetailTransactionDataDashboard/1
 
 ## 기능
 - 지역별 매출 규모 파악 및 시간에 따른 매출 추이 확인
